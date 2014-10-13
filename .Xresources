@@ -12,5 +12,5 @@ xterm*scrollKey:          true
 xterm*scrollTtyOutput:    false
 xterm*jumpScroll:         true
 xterm*toolBar:            false
-xterm*foreground: 	goldenrod
-xterm*background: 	darkslategrey
+xterm*foreground:         goldenrod
+xterm*background:         dimgrey
