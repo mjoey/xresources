@@ -14,3 +14,4 @@ xterm*jumpScroll:         true
 xterm*toolBar:            false
 xterm*foreground:         goldenrod
 xterm*background:         rgb:255/255/255 
+#XTerm*fullscreen:          true
